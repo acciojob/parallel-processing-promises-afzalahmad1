@@ -14,7 +14,7 @@ function downloadImages(images) {
 }
 
 const images = [
-  { url: 'https://picsum.photos/200/300' },
+  { url: 'https://picsum.photos/id/237/200/300' },
   { url: 'https://picsum.photos/200/301' },
   { url: 'https://picsum.photos/200/302' },
 ];
