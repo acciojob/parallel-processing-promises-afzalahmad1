@@ -17,8 +17,6 @@ const images = [
   { url: 'https://picsum.photos/200/300' },
   { url: 'https://picsum.photos/200/301' },
   { url: 'https://picsum.photos/200/302' },
-  { url: 'https://picsum.photos/200/303' },
-  { url: 'https://picsum.photos/200/304' }
 ];
 
 const output = document.getElementById('output');
